@@ -151,6 +151,7 @@
 - [CONTAINER-WITH-MOST-WATER](https://leetcode.com/problems/container-with-most-water)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/container-with-most-water.swift)]**
 - [CONVERT-SORTED-LIST-TO-BINARY-SEARCH-TREE](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/convert-sorted-list-to-binary-search-tree.py)]**
 - [EXPRESSIVE-WORDS](https://leetcode.com/problems/expressive-words)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/expressive-words.py)]**
+- [FIND-ALL-DUPLICATES-IN-AN-ARRAY](https://leetcode.com/problems/find-all-duplicates-in-an-array)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/find-all-duplicates-in-an-array.py)]**
 - [FRUIT-INTO-BASKETS](https://leetcode.com/problems/fruit-into-baskets)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/fruit-into-baskets.swift)]**
 - [GLOBAL-AND-LOCAL-INVERSIONS](https://leetcode.com/problems/global-and-local-inversions)   **[[.cpp](https://github.com/trilliwon/MyLeetCode/tree/master/medium/global-and-local-inversions.cpp)]**
 - [KTH-LARGEST-ELEMENT-IN-AN-ARRAY](https://leetcode.com/problems/kth-largest-element-in-an-array)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/kth-largest-element-in-an-array.py)]**
