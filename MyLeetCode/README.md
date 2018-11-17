@@ -162,8 +162,11 @@
 - [MINIMUM-PATH-SUM](https://leetcode.com/problems/minimum-path-sum)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/minimum-path-sum.swift)]**
 - [PARTITION-ARRAY-INTO-DISJOINT-INTERVALS](https://leetcode.com/problems/partition-array-into-disjoint-intervals)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/partition-array-into-disjoint-intervals.swift)]**
 - [PATH-SUM-II](https://leetcode.com/problems/path-sum-ii)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/path-sum-ii.py)]**
+- [PERMUTATIONS-II](https://leetcode.com/problems/permutations-ii)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/permutations-ii.py)]**
+- [PERMUTATIONS](https://leetcode.com/problems/permutations)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/permutations.py)]**
 - [REMOVE-NTH-NODE-FROM-END-OF-LIST](https://leetcode.com/problems/remove-nth-node-from-end-of-list)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/remove-nth-node-from-end-of-list.py)]**
 - [ROTATE-IMAGE](https://leetcode.com/problems/rotate-image)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/rotate-image.py)]**
+- [ROTATE-LIST](https://leetcode.com/problems/rotate-list)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/rotate-list.py)]**
 - [SCORE-OF-PARENTHESES](https://leetcode.com/problems/score-of-parentheses)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/score-of-parentheses.swift)]**
 - [SET-MATRIX-ZEROES](https://leetcode.com/problems/set-matrix-zeroes)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/set-matrix-zeroes.py)]**
 - [SNAKES-AND-LADDERS](https://leetcode.com/problems/snakes-and-ladders)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/snakes-and-ladders.swift)]**
@@ -177,6 +180,8 @@
 
 ## HARD
 - [BINARY-TREE-POSTORDER-TRAVERSAL](https://leetcode.com/problems/binary-tree-postorder-traversal)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/hard/binary-tree-postorder-traversal.py)]**
+- [N-QUEENS-II](https://leetcode.com/problems/n-queens-ii)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/hard/n-queens-ii.py)]**
+- [N-QUEENS](https://leetcode.com/problems/n-queens)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/hard/n-queens.py)]**
 
 ## LEETCODE-WEEKLY-CONTEST-27
 - [BRICK-WALL](https://leetcode.com/problems/brick-wall)   **[[.cpp](https://github.com/trilliwon/MyLeetCode/tree/master/leetcode-weekly-contest-27/brick-wall.cpp)]**
