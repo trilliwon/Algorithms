@@ -12,6 +12,6 @@
   - Counting Sort
   - Bucket Sort
 
-![](https://github.com/trilliwon/swift-algorithms/blob/master/assets/ex_toc.png?raw=true)
+![](https://github.com/trilliwon/Algorithms/blob/master/swift-algorithms/assets/ex_toc.png)
 
 
