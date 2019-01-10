@@ -2,7 +2,7 @@
 
 > 🧠 Algorithms Written In Swift
 
-# [Sortings](https://github.com/trilliwon/swift-algorithms/tree/master/Sortings.playground)
+# Sortings
 
   - Bubble Sort
   - Insertion Sort
