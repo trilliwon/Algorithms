@@ -113,6 +113,8 @@
 - [RANGE-SUM-QUERY-IMMUTABLE](https://leetcode.com/problems/range-sum-query-immutable)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/range-sum-query-immutable.py)]**
 - [RANSOM-NOTE](https://leetcode.com/problems/ransom-note)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/ransom-note.py)]**
 - [RECTANGLE-OVERLAP](https://leetcode.com/problems/rectangle-overlap)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/rectangle-overlap.py)]**
+- [RELATIVE-RANKS](https://leetcode.com/problems/relative-ranks)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/relative-ranks.py)]**
+- [REORDER-LOG-FILES](https://leetcode.com/problems/reorder-log-files)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/reorder-log-files.py)]**
 - [RESHAPE-THE-MATRIX](https://leetcode.com/problems/reshape-the-matrix)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/reshape-the-matrix.py)]**
 - [REVERSE-INTEGER](https://leetcode.com/problems/reverse-integer)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/easy/reverse-integer.swift)]**
 - [REVERSE-ONLY-LETTERS](https://leetcode.com/problems/reverse-only-letters)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/easy/reverse-only-letters.swift)]**
@@ -134,6 +136,7 @@
 - [SYMMETRIC-TREE](https://leetcode.com/problems/symmetric-tree)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/symmetric-tree.py)]**
 - [TOEPLITZ-MATRIX](https://leetcode.com/problems/toeplitz-matrix)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/toeplitz-matrix.py)]**
 - [TRANSPOSE-MATRIX](https://leetcode.com/problems/transpose-matrix)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/transpose-matrix.py)]**
+- [TRIM-A-BINARY-SEARCH-TREE](https://leetcode.com/problems/trim-a-binary-search-tree)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/trim-a-binary-search-tree.py)]**
 - [TWO-SUM-IV-INPUT-IS-A-BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/two-sum-iv-input-is-a-bst.py)]**
 - [UNCOMMON-WORDS-FROM-TWO-SENTENCES](https://leetcode.com/problems/uncommon-words-from-two-sentences)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/uncommon-words-from-two-sentences.py)]**
 - [UNIQUE-MORSE-CODE-WORDS](https://leetcode.com/problems/unique-morse-code-words)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/easy/unique-morse-code-words.swift)]**
