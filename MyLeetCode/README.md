@@ -139,6 +139,7 @@
 - [TRIM-A-BINARY-SEARCH-TREE](https://leetcode.com/problems/trim-a-binary-search-tree)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/trim-a-binary-search-tree.py)]**
 - [TWO-SUM-IV-INPUT-IS-A-BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/two-sum-iv-input-is-a-bst.py)]**
 - [UNCOMMON-WORDS-FROM-TWO-SENTENCES](https://leetcode.com/problems/uncommon-words-from-two-sentences)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/uncommon-words-from-two-sentences.py)]**
+- [UNIQUE-EMAIL-ADDRESSES](https://leetcode.com/problems/unique-email-addresses)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/unique-email-addresses.py)]**
 - [UNIQUE-MORSE-CODE-WORDS](https://leetcode.com/problems/unique-morse-code-words)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/easy/unique-morse-code-words.swift)]**
 - [VALID-PERFECT-SQUARE](https://leetcode.com/problems/valid-perfect-square)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/valid-perfect-square.py)]**
 - [WORD-PATTERN](https://leetcode.com/problems/word-pattern)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/word-pattern.py)]**
