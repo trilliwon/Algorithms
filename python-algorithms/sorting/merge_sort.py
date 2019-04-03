@@ -2,37 +2,32 @@
 """
 p <=􏰏 q < r
 """
-def merge(A, p, q, r):
-    ll = q - p + 1 # left part length
-    rl = r - q     # right part length
-
-    L = [ A[p + i] for i in range(ll) ] # left
-    R = [ A[q + 1 + i] for i in range(rl) ] # right
-
-    i = j = 0
-    for k in range(p, r+1):
-        if i < ll and j < rl:
-            if  L[i] <= R[j]:
-                A[k] = L[i]
-                i += 1
-            else:
-                A[k] = R[j]
-                j += 1
+def merge(A, low, mid, high):
+    H = [x for x in A]
+    left = low
+    right = mid + 1
+    s = low
+    while left <= mid and right <= high:
+        if H[left] <= H[right]:
+            A[s] = H[left]
+            left += 1
         else:
-            if i < ll:
-                A[k] = L[i]
-                i += 1
-            elif j < rl:
-                A[k] = R[j]
-                j += 1
+            A[s] = H[right]
+            right += 1
+        
+        s += 1
+        remaining = (mid - left) + 1
 
-def merge_sort(A, p, r):
-    if p < r:
-        q = int((p+r)/2)
-        merge_sort(A, p, q)
-        merge_sort(A, q+1, r)
-        merge(A, p, q, r)
+        for i in range(remaining):
+            A[s + i] = H[left + i]
 
-data = [1, 2, 10, 9, 8 ,7, 4, 5, 6, 3]
+def merge_sort(A, low, high):
+    if low < high:
+        mid = (low + high) // 2
+        merge_sort(A, low, mid)
+        merge_sort(A, mid + 1, high)
+        merge(A, low, mid, high)
+
+data = [1, 2, 0, 0, -1, -20, 10, 9, 8 ,7, 7, 4, 5, 6, 3]
 merge_sort(data, 0, len(data)-1)
 print(data)
