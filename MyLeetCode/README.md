@@ -12,6 +12,7 @@
 
 ## EASY
 - [ADD-DIGITS](https://leetcode.com/problems/add-digits)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/add-digits.py)]**
+- [ADD-TO-ARRAY-FORM-OF-INTEGER](https://leetcode.com/problems/add-to-array-form-of-integer)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/add-to-array-form-of-integer.py)]**
 - [ARRANGING-COINS](https://leetcode.com/problems/arranging-coins)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/arranging-coins.py)]**
 - [ASSIGN-COOKIES](https://leetcode.com/problems/assign-cookies)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/assign-cookies.py)]**
 - [AVERAGE-OF-LEVELS-IN-BINARY-TREE](https://leetcode.com/problems/average-of-levels-in-binary-tree)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/average-of-levels-in-binary-tree.py)]**
@@ -34,10 +35,12 @@
 - [CONVERT-SORTED-LIST-TO-BINARY-SEARCH-TREE](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/convert-sorted-list-to-binary-search-tree.py)]**
 - [COUNT-BINARY-SUBSTRINGS](https://leetcode.com/problems/count-binary-substrings)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/count-binary-substrings.py)]**
 - [COUNT-PRIMES](https://leetcode.com/problems/count-primes)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/count-primes.py)]**
+- [COUSINS-IN-BINARY-TREE](https://leetcode.com/problems/cousins-in-binary-tree)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/cousins-in-binary-tree.py)]**
 - [DEGREE-OF-AN-ARRAY](https://leetcode.com/problems/degree-of-an-array)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/degree-of-an-array.py)]**
 - [DESIGN-LINKED-LIST](https://leetcode.com/problems/design-linked-list)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/design-linked-list.py)]**
 - [DIAMETER-OF-BINARY-TREE](https://leetcode.com/problems/diameter-of-binary-tree)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/diameter-of-binary-tree.py)]**
 - [DISTRIBUTE-CANDIES](https://leetcode.com/problems/distribute-candies)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/distribute-candies.py)]**
+- [DIVISOR-GAME](https://leetcode.com/problems/divisor-game)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/divisor-game.py)]**
 - [EMPLOYEE-IMPORTANCE](https://leetcode.com/problems/employee-importance)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/employee-importance.py)]**
 - [EXCEL-SHEET-COLUMN-NUMBER](https://leetcode.com/problems/excel-sheet-column-number)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/excel-sheet-column-number.py)]**
 - [EXCEL-SHEET-COLUMN-TITLE](https://leetcode.com/problems/excel-sheet-column-title)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/excel-sheet-column-title.py)]**
@@ -124,6 +127,7 @@
 - [ROTATE-ARRAY](https://leetcode.com/problems/rotate-array)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/rotate-array.py)]**
 - [ROTATE-STRING](https://leetcode.com/problems/rotate-string)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/rotate-string.py)]**
 - [ROTATED-DIGITS](https://leetcode.com/problems/rotated-digits)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/rotated-digits.py)]**
+- [ROTTING-ORANGES](https://leetcode.com/problems/rotting-oranges)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/rotting-oranges.py)]**
 - [SEARCH-IN-A-BINARY-SEARCH-TREE](https://leetcode.com/problems/search-in-a-binary-search-tree)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/search-in-a-binary-search-tree.py)]**
 - [SECOND-MINIMUM-NODE-IN-A-BINARY-TREE](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/second-minimum-node-in-a-binary-tree.py)]**
 - [SELF-DIVIDING-NUMBERS](https://leetcode.com/problems/self-dividing-numbers)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/self-dividing-numbers.py)]**
@@ -131,12 +135,14 @@
 - [SMALLEST-RANGE-I](https://leetcode.com/problems/smallest-range-i)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/easy/smallest-range-i.swift)]**
 - [SORT-ARRAY-BY-PARITY-II](https://leetcode.com/problems/sort-array-by-parity-ii)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/easy/sort-array-by-parity-ii.swift)]**
 - [SORT-ARRAY-BY-PARITY](https://leetcode.com/problems/sort-array-by-parity)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/easy/sort-array-by-parity.swift)]**
+- [SUBTREE-OF-ANOTHER-TREE](https://leetcode.com/problems/subtree-of-another-tree)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/subtree-of-another-tree.py)]**
 - [SUM-OF-LEFT-LEAVES](https://leetcode.com/problems/sum-of-left-leaves)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/sum-of-left-leaves.py)]**
 - [SUM-OF-SQUARE-NUMBERS](https://leetcode.com/problems/sum-of-square-numbers)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/sum-of-square-numbers.py)]**
 - [SYMMETRIC-TREE](https://leetcode.com/problems/symmetric-tree)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/symmetric-tree.py)]**
 - [TOEPLITZ-MATRIX](https://leetcode.com/problems/toeplitz-matrix)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/toeplitz-matrix.py)]**
 - [TRANSPOSE-MATRIX](https://leetcode.com/problems/transpose-matrix)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/transpose-matrix.py)]**
 - [TRIM-A-BINARY-SEARCH-TREE](https://leetcode.com/problems/trim-a-binary-search-tree)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/trim-a-binary-search-tree.py)]**
+- [TWO-CITY-SCHEDULING](https://leetcode.com/problems/two-city-scheduling)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/two-city-scheduling.py)]**
 - [TWO-SUM-IV-INPUT-IS-A-BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/two-sum-iv-input-is-a-bst.py)]**
 - [UNCOMMON-WORDS-FROM-TWO-SENTENCES](https://leetcode.com/problems/uncommon-words-from-two-sentences)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/uncommon-words-from-two-sentences.py)]**
 - [UNIQUE-EMAIL-ADDRESSES](https://leetcode.com/problems/unique-email-addresses)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/easy/unique-email-addresses.py)]**
@@ -152,21 +158,27 @@
 - [BINARY-TREE-INORDER-TRAVERSAL](https://leetcode.com/problems/binary-tree-inorder-traversal)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/binary-tree-inorder-traversal.py)]**
 - [BINARY-TREE-PREORDER-TRAVERSAL](https://leetcode.com/problems/binary-tree-preorder-traversal)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/binary-tree-preorder-traversal.py)]**
 - [BRICK-WALL](https://leetcode.com/problems/brick-wall)   **[[.cpp](https://github.com/trilliwon/MyLeetCode/tree/master/medium/brick-wall.cpp)]**
+- [CONSTRUCT-BINARY-SEARCH-TREE-FROM-PREORDER-TRAVERSAL](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/construct-binary-search-tree-from-preorder-traversal.py)]**
 - [CONTAINER-WITH-MOST-WATER](https://leetcode.com/problems/container-with-most-water)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/container-with-most-water.swift)]**
 - [CONVERT-SORTED-LIST-TO-BINARY-SEARCH-TREE](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/convert-sorted-list-to-binary-search-tree.py)]**
 - [EXPRESSIVE-WORDS](https://leetcode.com/problems/expressive-words)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/expressive-words.py)]**
 - [FIND-ALL-DUPLICATES-IN-AN-ARRAY](https://leetcode.com/problems/find-all-duplicates-in-an-array)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/find-all-duplicates-in-an-array.py)]**
 - [FRUIT-INTO-BASKETS](https://leetcode.com/problems/fruit-into-baskets)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/fruit-into-baskets.swift)]**
 - [GLOBAL-AND-LOCAL-INVERSIONS](https://leetcode.com/problems/global-and-local-inversions)   **[[.cpp](https://github.com/trilliwon/MyLeetCode/tree/master/medium/global-and-local-inversions.cpp)]**
+- [HOUSE-ROBBER-II](https://leetcode.com/problems/house-robber-ii)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/house-robber-ii.py)]**
 - [KTH-LARGEST-ELEMENT-IN-AN-ARRAY](https://leetcode.com/problems/kth-largest-element-in-an-array)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/kth-largest-element-in-an-array.py)]**
 - [LINKED-LIST-COMPONENTS](https://leetcode.com/problems/linked-list-components)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/linked-list-components.py)]**
 - [LONGEST-SUBSTRING-WITHOUT-REPEATING-CHARACTERS](https://leetcode.com/problems/longest-substring-without-repeating-characters)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/longest-substring-without-repeating-characters.swift)]**
 - [MAX-INCREASE-TO-KEEP-CITY-SKYLINE](https://leetcode.com/problems/max-increase-to-keep-city-skyline)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/max-increase-to-keep-city-skyline.py)]**
 - [MAX-INCREASE-TO-KEEP-CITY-SKYLINE](https://leetcode.com/problems/max-increase-to-keep-city-skyline)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/max-increase-to-keep-city-skyline.swift)]**
+- [MAXIMAL-SQUARE_V1](https://leetcode.com/problems/maximal-square_v1)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/maximal-square_v1.py)]**
+- [MAXIMAL-SQUARE_V2](https://leetcode.com/problems/maximal-square_v2)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/maximal-square_v2.py)]**
+- [MAXIMUM-PRODUCT-SUBARRAY](https://leetcode.com/problems/maximum-product-subarray)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/maximum-product-subarray.py)]**
 - [MINIMUM-ADD-TO-MAKE-PARENTHESES-VALID](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/minimum-add-to-make-parentheses-valid.swift)]**
 - [MINIMUM-PATH-SUM](https://leetcode.com/problems/minimum-path-sum)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/minimum-path-sum.swift)]**
 - [PARTITION-ARRAY-INTO-DISJOINT-INTERVALS](https://leetcode.com/problems/partition-array-into-disjoint-intervals)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/partition-array-into-disjoint-intervals.swift)]**
 - [PATH-SUM-II](https://leetcode.com/problems/path-sum-ii)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/path-sum-ii.py)]**
+- [PERFECT-SQUARES](https://leetcode.com/problems/perfect-squares)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/perfect-squares.py)]**
 - [PERMUTATIONS-II](https://leetcode.com/problems/permutations-ii)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/permutations-ii.py)]**
 - [PERMUTATIONS](https://leetcode.com/problems/permutations)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/permutations.py)]**
 - [REMOVE-NTH-NODE-FROM-END-OF-LIST](https://leetcode.com/problems/remove-nth-node-from-end-of-list)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/remove-nth-node-from-end-of-list.py)]**
@@ -178,9 +190,14 @@
 - [SNAKES-AND-LADDERS](https://leetcode.com/problems/snakes-and-ladders)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/snakes-and-ladders.swift)]**
 - [SUBSETS-II](https://leetcode.com/problems/subsets-ii)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/subsets-ii.py)]**
 - [SUBSETS](https://leetcode.com/problems/subsets)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/subsets.py)]**
+- [TRIANGLE](https://leetcode.com/problems/triangle)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/triangle.py)]**
+- [UGLY-NUMBER-II](https://leetcode.com/problems/ugly-number-ii)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/ugly-number-ii.py)]**
+- [UNIQUE-BINARY-SEARCH-TREES-II](https://leetcode.com/problems/unique-binary-search-trees-ii)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/unique-binary-search-trees-ii.py)]**
+- [UNIQUE-BINARY-SEARCH-TREES](https://leetcode.com/problems/unique-binary-search-trees)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/unique-binary-search-trees.py)]**
 - [UNIQUE-PATHS-II](https://leetcode.com/problems/unique-paths-ii)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/unique-paths-ii.swift)]**
 - [UNIQUE-PATHS](https://leetcode.com/problems/unique-paths)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/unique-paths.swift)]**
 - [VALIDATE-BINARY-SEARCH-TREE](https://leetcode.com/problems/validate-binary-search-tree)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/validate-binary-search-tree.py)]**
+- [WORD-BREAK](https://leetcode.com/problems/word-break)   **[[.py](https://github.com/trilliwon/MyLeetCode/tree/master/medium/word-break.py)]**
 - [WORD-SUBSETS](https://leetcode.com/problems/word-subsets)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/word-subsets.swift)]**
 - [ZIGZAG-CONVERSION](https://leetcode.com/problems/zigzag-conversion)   **[[.swift](https://github.com/trilliwon/MyLeetCode/tree/master/medium/zigzag-conversion.swift)]**
 
