@@ -27,7 +27,7 @@ for dirName in existDirs:
 with open('README.md', 'w') as f:
     f.write('# My codes for LeetCode\n') 
 
-githubRepoURL = 'https://github.com/trilliwon/MyLeetCode/tree/master/'
+githubRepoURL = 'https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/'
 leetcodeProbURL = 'https://leetcode.com/problems/'
 
 with open('README.md', 'a') as f:
@@ -38,7 +38,7 @@ with open('README.md', 'a') as f:
         f.write(line)
     f.write('\n---\n')
 
-    for dirName in dirNames: 
+    for dirName in dirNames:
         f.write('\n## ' + dirName.upper() + '\n') 
         for x in dirs[dirName]:
             n, e = os.path.splitext(x)
