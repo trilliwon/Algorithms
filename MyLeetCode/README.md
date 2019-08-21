@@ -168,6 +168,7 @@
 - [HOUSE-ROBBER-II](https://leetcode.com/problems/house-robber-ii)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/medium/house-robber-ii.py)]**
 - [KTH-LARGEST-ELEMENT-IN-AN-ARRAY](https://leetcode.com/problems/kth-largest-element-in-an-array)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/medium/kth-largest-element-in-an-array.py)]**
 - [LINKED-LIST-COMPONENTS](https://leetcode.com/problems/linked-list-components)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/medium/linked-list-components.py)]**
+- [LONGEST-INCREASING-SUBSEQUENCE](https://leetcode.com/problems/longest-increasing-subsequence)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/medium/longest-increasing-subsequence.py)]**
 - [LONGEST-SUBSTRING-WITHOUT-REPEATING-CHARACTERS](https://leetcode.com/problems/longest-substring-without-repeating-characters)   **[[.swift](https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/medium/longest-substring-without-repeating-characters.swift)]**
 - [MAX-INCREASE-TO-KEEP-CITY-SKYLINE](https://leetcode.com/problems/max-increase-to-keep-city-skyline)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/medium/max-increase-to-keep-city-skyline.py)]**
 - [MAX-INCREASE-TO-KEEP-CITY-SKYLINE](https://leetcode.com/problems/max-increase-to-keep-city-skyline)   **[[.swift](https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/medium/max-increase-to-keep-city-skyline.swift)]**
@@ -181,6 +182,7 @@
 - [PERFECT-SQUARES](https://leetcode.com/problems/perfect-squares)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/medium/perfect-squares.py)]**
 - [PERMUTATIONS-II](https://leetcode.com/problems/permutations-ii)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/medium/permutations-ii.py)]**
 - [PERMUTATIONS](https://leetcode.com/problems/permutations)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/medium/permutations.py)]**
+- [RANGE-SUM-QUERY-2D-IMMUTABLE](https://leetcode.com/problems/range-sum-query-2d-immutable)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/medium/range-sum-query-2d-immutable.py)]**
 - [REMOVE-NTH-NODE-FROM-END-OF-LIST](https://leetcode.com/problems/remove-nth-node-from-end-of-list)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/medium/remove-nth-node-from-end-of-list.py)]**
 - [REORDER-LIST](https://leetcode.com/problems/reorder-list)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/medium/reorder-list.py)]**
 - [ROTATE-IMAGE](https://leetcode.com/problems/rotate-image)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/medium/rotate-image.py)]**
