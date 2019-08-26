@@ -27,7 +27,7 @@ for dirName in existDirs:
 with open('README.md', 'w') as f:
     f.write('# My codes for LeetCode\n') 
 
-githubRepoURL = 'https://github.com/trilliwon/Algorithms/blob/master/MyLeetCode/'
+githubRepoURL = 'https://github.com/trilliwon/Algorithms/blob/master/LeetCode/'
 leetcodeProbURL = 'https://leetcode.com/problems/'
 
 with open('README.md', 'a') as f:
