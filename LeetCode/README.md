@@ -167,6 +167,7 @@
 - [FRUIT-INTO-BASKETS](https://leetcode.com/problems/fruit-into-baskets)   **[[.swift](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/fruit-into-baskets.swift)]**
 - [GLOBAL-AND-LOCAL-INVERSIONS](https://leetcode.com/problems/global-and-local-inversions)   **[[.cpp](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/global-and-local-inversions.cpp)]**
 - [HOUSE-ROBBER-II](https://leetcode.com/problems/house-robber-ii)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/house-robber-ii.py)]**
+- [INTEGER-BREAK](https://leetcode.com/problems/integer-break)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/integer-break.py)]**
 - [KTH-LARGEST-ELEMENT-IN-AN-ARRAY](https://leetcode.com/problems/kth-largest-element-in-an-array)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/kth-largest-element-in-an-array.py)]**
 - [LINKED-LIST-COMPONENTS](https://leetcode.com/problems/linked-list-components)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/linked-list-components.py)]**
 - [LONGEST-INCREASING-SUBSEQUENCE](https://leetcode.com/problems/longest-increasing-subsequence)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/longest-increasing-subsequence.py)]**
