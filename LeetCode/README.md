@@ -2,11 +2,6 @@
 - [EASY](#easy)
 - [MEDIUM](#medium)
 - [HARD](#hard)
-- [LEETCODE-WEEKLY-CONTEST-27](#leetcode-weekly-contest-27)
-- [LEETCODE-WEEKLY-CONTEST-77](#leetcode-weekly-contest-77)
-- [LEETCODE-WEEKLY-CONTEST-78](#leetcode-weekly-contest-78)
-- [LEETCODE-WEEKLY-CONTEST-79](#leetcode-weekly-contest-79)
-- [LEETCODE-WEEKLY-CONTEST-80](#leetcode-weekly-contest-80)
 
 ---
 
@@ -155,6 +150,7 @@
 - [ADD-TWO-NUMBERS-II](https://leetcode.com/problems/add-two-numbers-ii)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/add-two-numbers-ii.py)]**
 - [ADD-TWO-NUMBERS](https://leetcode.com/problems/add-two-numbers)   **[[.cpp](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/add-two-numbers.cpp)]**
 - [ADD-TWO-NUMBERS](https://leetcode.com/problems/add-two-numbers)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/add-two-numbers.py)]**
+- [AMBIGUOUS-COORDINATES](https://leetcode.com/problems/ambiguous-coordinates)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/ambiguous-coordinates.py)]**
 - [BINARY-TREE-INORDER-TRAVERSAL](https://leetcode.com/problems/binary-tree-inorder-traversal)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/binary-tree-inorder-traversal.py)]**
 - [BINARY-TREE-PREORDER-TRAVERSAL](https://leetcode.com/problems/binary-tree-preorder-traversal)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/binary-tree-preorder-traversal.py)]**
 - [BRICK-WALL](https://leetcode.com/problems/brick-wall)   **[[.cpp](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/brick-wall.cpp)]**
@@ -171,6 +167,7 @@
 - [INTEGER-BREAK](https://leetcode.com/problems/integer-break)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/integer-break.py)]**
 - [KTH-LARGEST-ELEMENT-IN-AN-ARRAY](https://leetcode.com/problems/kth-largest-element-in-an-array)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/kth-largest-element-in-an-array.py)]**
 - [LARGEST-DIVISIBLE-SUBSET](https://leetcode.com/problems/largest-divisible-subset)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/largest-divisible-subset.py)]**
+- [LARGEST-TRIANGLE-AREA](https://leetcode.com/problems/largest-triangle-area)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/largest-triangle-area.py)]**
 - [LINKED-LIST-COMPONENTS](https://leetcode.com/problems/linked-list-components)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/linked-list-components.py)]**
 - [LONGEST-INCREASING-SUBSEQUENCE](https://leetcode.com/problems/longest-increasing-subsequence)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/longest-increasing-subsequence.py)]**
 - [LONGEST-SUBSTRING-WITHOUT-REPEATING-CHARACTERS](https://leetcode.com/problems/longest-substring-without-repeating-characters)   **[[.swift](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/longest-substring-without-repeating-characters.swift)]**
@@ -181,25 +178,31 @@
 - [MAXIMUM-PRODUCT-SUBARRAY](https://leetcode.com/problems/maximum-product-subarray)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/maximum-product-subarray.py)]**
 - [MINIMUM-ADD-TO-MAKE-PARENTHESES-VALID](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid)   **[[.swift](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/minimum-add-to-make-parentheses-valid.swift)]**
 - [MINIMUM-PATH-SUM](https://leetcode.com/problems/minimum-path-sum)   **[[.swift](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/minimum-path-sum.swift)]**
+- [MOST-COMMON-WORD](https://leetcode.com/problems/most-common-word)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/most-common-word.py)]**
+- [NUMBER-OF-LINES-TO-WRITE-STRING](https://leetcode.com/problems/number-of-lines-to-write-string)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/number-of-lines-to-write-string.py)]**
 - [PARTITION-ARRAY-INTO-DISJOINT-INTERVALS](https://leetcode.com/problems/partition-array-into-disjoint-intervals)   **[[.swift](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/partition-array-into-disjoint-intervals.swift)]**
 - [PATH-SUM-II](https://leetcode.com/problems/path-sum-ii)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/path-sum-ii.py)]**
 - [PERFECT-SQUARES](https://leetcode.com/problems/perfect-squares)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/perfect-squares.py)]**
 - [PERMUTATIONS-II](https://leetcode.com/problems/permutations-ii)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/permutations-ii.py)]**
 - [PERMUTATIONS](https://leetcode.com/problems/permutations)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/permutations.py)]**
+- [RACE-CAR](https://leetcode.com/problems/race-car)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/race-car.py)]**
 - [RANGE-SUM-QUERY-2D-IMMUTABLE](https://leetcode.com/problems/range-sum-query-2d-immutable)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/range-sum-query-2d-immutable.py)]**
 - [REMOVE-NTH-NODE-FROM-END-OF-LIST](https://leetcode.com/problems/remove-nth-node-from-end-of-list)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/remove-nth-node-from-end-of-list.py)]**
 - [REORDER-LIST](https://leetcode.com/problems/reorder-list)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/reorder-list.py)]**
+- [REVERSE-WORDS-IN-A-STRING-III](https://leetcode.com/problems/reverse-words-in-a-string-iii)   **[[.cpp](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/reverse-words-in-a-string-iii.cpp)]**
 - [ROTATE-IMAGE](https://leetcode.com/problems/rotate-image)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/rotate-image.py)]**
 - [ROTATE-LIST](https://leetcode.com/problems/rotate-list)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/rotate-list.py)]**
 - [SCORE-OF-PARENTHESES](https://leetcode.com/problems/score-of-parentheses)   **[[.swift](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/score-of-parentheses.swift)]**
 - [SET-MATRIX-ZEROES](https://leetcode.com/problems/set-matrix-zeroes)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/set-matrix-zeroes.py)]**
 - [SNAKES-AND-LADDERS](https://leetcode.com/problems/snakes-and-ladders)   **[[.swift](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/snakes-and-ladders.swift)]**
+- [SUBDOMAIN-VISIT-COUNT](https://leetcode.com/problems/subdomain-visit-count)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/subdomain-visit-count.py)]**
 - [SUBSETS-II](https://leetcode.com/problems/subsets-ii)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/subsets-ii.py)]**
 - [SUBSETS](https://leetcode.com/problems/subsets)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/subsets.py)]**
 - [TRIANGLE](https://leetcode.com/problems/triangle)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/triangle.py)]**
 - [UGLY-NUMBER-II](https://leetcode.com/problems/ugly-number-ii)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/ugly-number-ii.py)]**
 - [UNIQUE-BINARY-SEARCH-TREES-II](https://leetcode.com/problems/unique-binary-search-trees-ii)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/unique-binary-search-trees-ii.py)]**
 - [UNIQUE-BINARY-SEARCH-TREES](https://leetcode.com/problems/unique-binary-search-trees)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/unique-binary-search-trees.py)]**
+- [UNIQUE-MORSE-CODE-WORDS](https://leetcode.com/problems/unique-morse-code-words)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/unique-morse-code-words.py)]**
 - [UNIQUE-PATHS-II](https://leetcode.com/problems/unique-paths-ii)   **[[.swift](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/unique-paths-ii.swift)]**
 - [UNIQUE-PATHS](https://leetcode.com/problems/unique-paths)   **[[.swift](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/unique-paths.swift)]**
 - [VALIDATE-BINARY-SEARCH-TREE](https://leetcode.com/problems/validate-binary-search-tree)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/medium/validate-binary-search-tree.py)]**
@@ -211,25 +214,3 @@
 - [BINARY-TREE-POSTORDER-TRAVERSAL](https://leetcode.com/problems/binary-tree-postorder-traversal)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/hard/binary-tree-postorder-traversal.py)]**
 - [N-QUEENS-II](https://leetcode.com/problems/n-queens-ii)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/hard/n-queens-ii.py)]**
 - [N-QUEENS](https://leetcode.com/problems/n-queens)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/hard/n-queens.py)]**
-
-## LEETCODE-WEEKLY-CONTEST-27
-- [BRICK-WALL](https://leetcode.com/problems/brick-wall)   **[[.cpp](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/leetcode-weekly-contest-27/brick-wall.cpp)]**
-- [REVERSE-WORDS-IN-A-STRING-III](https://leetcode.com/problems/reverse-words-in-a-string-iii)   **[[.cpp](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/leetcode-weekly-contest-27/reverse-words-in-a-string-iii.cpp)]**
-
-## LEETCODE-WEEKLY-CONTEST-77
-- [MAX-INCREASE-TO-KEEP-CITY-SKYLINE](https://leetcode.com/problems/max-increase-to-keep-city-skyline)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/leetcode-weekly-contest-77/max-increase-to-keep-city-skyline.py)]**
-- [NUMBER-OF-LINES-TO-WRITE-STRING](https://leetcode.com/problems/number-of-lines-to-write-string)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/leetcode-weekly-contest-77/number-of-lines-to-write-string.py)]**
-- [UNIQUE-MORSE-CODE-WORDS](https://leetcode.com/problems/unique-morse-code-words)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/leetcode-weekly-contest-77/unique-morse-code-words.py)]**
-
-## LEETCODE-WEEKLY-CONTEST-78
-- [EXPRESSIVE-WORDS](https://leetcode.com/problems/expressive-words)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/leetcode-weekly-contest-78/expressive-words.py)]**
-- [SUBDOMAIN-VISIT-COUNT](https://leetcode.com/problems/subdomain-visit-count)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/leetcode-weekly-contest-78/subdomain-visit-count.py)]**
-
-## LEETCODE-WEEKLY-CONTEST-79
-- [LARGEST-TRIANGLE-AREA](https://leetcode.com/problems/largest-triangle-area)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/leetcode-weekly-contest-79/largest-triangle-area.py)]**
-
-## LEETCODE-WEEKLY-CONTEST-80
-- [AMBIGUOUS-COORDINATES](https://leetcode.com/problems/ambiguous-coordinates)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/leetcode-weekly-contest-80/ambiguous-coordinates.py)]**
-- [LINKED-LIST-COMPONENTS](https://leetcode.com/problems/linked-list-components)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/leetcode-weekly-contest-80/linked-list-components.py)]**
-- [MOST-COMMON-WORD](https://leetcode.com/problems/most-common-word)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/leetcode-weekly-contest-80/most-common-word.py)]**
-- [RACE-CAR](https://leetcode.com/problems/race-car)   **[[.py](https://github.com/trilliwon/Algorithms/blob/master/LeetCode/leetcode-weekly-contest-80/race-car.py)]**

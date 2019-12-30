@@ -2,6 +2,11 @@ class Solution:
     
     def makeCharCountArr(self, s):
         """
+        
+        Complexity O(N)
+        
+        N = len(s)
+        
         :type s: str
         :rtype: List[(char, int)]
         """
@@ -20,24 +25,24 @@ class Solution:
         
     def expressiveWords(self, S, words):
         """
-        Complexity
+        Complexity O(a*b)
         
-        len(S) = a
-        len(words) = 
-        
+        a = len(S)
+        b = len(words)
+        c = len(max length word)
         :type S: str
         :type words: List[str]
         :rtype: int
         """
-        S = self.makeCharCountArr(S)
+        S = self.makeCharCountArr(S) # O(a)
         ans = 0
         
-        for word in words:
-            word = self.makeCharCountArr(word)
+        for word in words: # O(b)
+            word = self.makeCharCountArr(word) # O(c)
             checker = True
 
             if len(S) == len(word):
-                for i in range(len(S)):
+                for i in range(len(S)): # O(a)
                     s_ = S[i]
                     w_ = word[i]
                     if s_[0] == w_[0]:
