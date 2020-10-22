@@ -1,7 +1,7 @@
 def solveNQeensUtil(N, row, pos, result):
     if N == row:
         result.append([p for p in pos])
-        return 
+        return
 
     for col in range(N):
         foundSafe = True
